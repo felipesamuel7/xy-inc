@@ -1,6 +1,6 @@
 XY Inc - Site de busca por localidades próximas a determinadas coordenadas e distância;
 
-Este projeto usa Spring MVC, Spring ORM JPA, Spring Framework e Bootstrap.
+Este projeto usa Spring MVC, Spring ORM JPA e Bootstrap.
 
 Script para criação de banco:
 CREATE SCHEMA xyinc;
